@@ -34,9 +34,8 @@ https://docs.microsoft.com/en-us/azure/azure-monitor/learn/quick-collect-azurevm
 11. "Secure transfer required" is available in Azure Storage account
 https://techcommunity.microsoft.com/t5/azure/quot-secure-transfer-required-quot-is-available-in-azure-storage/m-p/82475
 
+12. Configure customer-managed keys with Azure Key Vault by using the Azure portal
+https://docs.microsoft.com/en-us/azure/storage/common/storage-encryption-keys-portal
 
 # Video Lab (3 November 2020)
 https://www.youtube.com/watch?v=dPKk9VKVYeQ&list=PL-PJPxYgLz54fMyOD6alrikVu-_23sikC
-
-12. Configure customer-managed keys with Azure Key Vault by using the Azure portal
-https://docs.microsoft.com/en-us/azure/storage/common/storage-encryption-keys-portal
