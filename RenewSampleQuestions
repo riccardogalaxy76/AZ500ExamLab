@@ -1,7 +1,142 @@
 1. Your Company use azure Active Directory (Azure AD) conditional access policies.
 You plan to use sign-in risk condition in a conditional access policy.
 Which service is required to use a sign-in risk condition in a conditional access policy?
-[] Microsoft Intune
-[] Azure AD Identity Protection
-[] Azure AD privileged Identity Management (PIM)
-[] Microsoft Defender for Endpoint
+() Microsoft Intune
+() Azure AD Identity Protection
+() Azure AD privileged Identity Management (PIM)
+() Microsoft Defender for Endpoint
+
+2.Your company is evaluating wheather to block legacy authentication protocols.
+Exchange ActiveSync is legacy authentication protocol.
+Select Yes if the Statement is true.Otherwise, Select No.
+() Yes
+() No
+
+3.Your company plans to use Access Reviews.
+Access Reviews can unassign Azure Active Directory (Azure AD) roles automatically.
+Select Yes if the Statement is true.Otherwise, Select No.
+() Yes
+() No
+
+4. Your company plans to use Access Reviews.
+Access Reviews are used to provide users access to Azure Active Directory (Azure AD) enterprise applications.
+Select Yes if the Statement is true.Otherwise, Select No.
+() Yes
+() No
+
+5. You have an Azure Active Directory (Azure AD) tenant that contains a user named User1.
+You Configure and enforce a multi-factor authentication (MFA) registration policy for all users.
+User1 authentication on October 1.
+What is the last day that User1 can sign in without using MFA?
+() October 7
+() October 14
+() October 21
+() October 28
+() October 30
+
+6. Your company plans to use Azure Active Directory (Azure AD) identity protection.
+You need to require multi-factor authntication (MFA) if a user attempts to access an Azure AD enterprise application from an annoymous IP address.
+What should you configure?
+() an Azure Security policy
+() a user risk policy
+() a sign-in risk policy
+() an MFA registration policy
+
+7. Your company is evaluating role-based access control (RBAC) in AZure.
+If a user has the Reader role at the Azure Subscription level, you can remove the user from the Reader role at the resource group level.
+Select Yes if the Statement is true.Otherwise, Select No.
+() Yes
+() No
+
+8. Your company is evaluating role-based access control (RBAC) in Azure.
+A user who is assigned the Owner role on a resource has the highest level of permissions.
+Select Yes if the Statement is true.Otherwise, Select No.
+() Yes
+() No
+
+9. Your company is evaluating role-based access control (RBAC) in Azure.
+All roles are identical on all Azure resources.
+Select Yes if the Statement is true.Otherwise, Select No.
+() Yes
+() No
+
+10. You have an Azure Virtual Machine that has a network interface name NIC1 connects to a subnet named Subnet1.
+You create two network security groups (NSGs) named NSG1 and NSG2 to which you add the following inbound allow security rules:
+- NSG1: Ports 80 and 3389
+- NSG2: Ports 443 and 3389
+You assign NSG1 to Subnet1 and NSG2 to NIC1.
+Through which ports can you connect to VM1?
+() 3389 only
+() 80 and 3389 only
+() 443 and 3389 only
+() 80,443 and 3389
+
+11. Which Azure Resources can use an application security group
+() a virtual machine
+() a virtual network subnet
+
+12. Your company is evaluating network security groups (NSGs)
+You can create custom service tags that can be used in NSGs.
+Select Yes if the Statement is true.Otherwise, Select No.
+() Yes
+() No
+
+13. Your company is evaluating network security groups (NSGs)
+You can use an Azure Load Balance AzureLoadBalancer service tag in an NSGs.
+Select Yes if the Statement is true.Otherwise, Select No.
+() Yes
+() No
+
+
+14. Your company is plans to modify a network security groups (NSGs)
+You can delete the NSG default security rules.
+Select Yes if the Statement is true.Otherwise, Select No.
+() Yes
+() No
+
+15. Your company has recently implemented Azure Sentinel.
+You need to provide an automated response to threats in Azure Sentinel.
+What should you create?
+() a playbook
+() an Azure function
+() a Microsoft Power App
+() an automation account
+
+16. You plan to monitor on-premise Windows 10 computers by using Azure Monitor.
+() Install the Log Analytics agent.
+() Join the computers to Azure Active Directory (Azure AD)
+() Modify the membership of the Performance Monitor Users Group.
+() Configure Windows Defender Firewall
+
+17. Your company uses Azure Security Center.
+You are creating a workflow automation.
+You need to configure the workflow automation to respond automatically to Azure Security Center alerts.
+What should you specify in the Workflow automation?
+() a logic app
+() an Azure Function
+() a PowerShell script
+() an automation account
+
+18. Your company is Evaluating whether to use secure score in Azure Security Center.
+Enabling multi factor authentication (MFA) will increase your secure score.
+Select Yes if the Statement is true.Otherwise, Select No.
+() Yes
+() No
+
+19. Your company is monitoring Azure Virtual Machine by using the Azure Security center.
+what should you use to configure which applications can run on virtual machines?
+() Azure security policies
+() application control policies
+() software restirction policies
+() adaptive application control
+
+20.You have an Azure Storage account named account1.
+You need to grant users access to account1 from October 1 to October 14 only.
+What should you do?
+() Provide the users with the access key for storage1.
+() Configure Firewall and Virtual Networks settng for storage1.
+() Grant users access by assigning them role-based access control (RBAC) roles for storage1.
+() Generate a shared access signature (SAS) for storage 1 and provide the SAS to the users.
+
+
+
