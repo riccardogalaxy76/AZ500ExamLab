@@ -74,6 +74,8 @@ Through which ports can you connect to VM1?
 11. Which Azure Resources can use an application security group
 () a virtual machine
 () a virtual network subnet
+() a network security group(NSG)
+() an enterprise application
 
 12. Your company is evaluating network security groups (NSGs)
 You can create custom service tags that can be used in NSGs.
