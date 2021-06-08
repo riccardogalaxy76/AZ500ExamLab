@@ -1,0 +1,7 @@
+1. Your Company use azure Active Directory (Azure AD) conditional access policies.
+You plan to use sign-in risk condition in a conditional access policy.
+Which service is required to use a sign-in risk condition in a conditional access policy?
+[] Microsoft Intune
+[] Azure AD Identity Protection
+[] Azure AD privileged Identity Management (PIM)
+[] Microsoft Defender for Endpoint
