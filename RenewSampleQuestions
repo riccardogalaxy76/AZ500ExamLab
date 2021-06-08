@@ -138,5 +138,46 @@ What should you do?
 () Grant users access by assigning them role-based access control (RBAC) roles for storage1.
 () Generate a shared access signature (SAS) for storage 1 and provide the SAS to the users.
 
+21. Your Network contains an on-premises Active Directory domain named contoso.com.
+Contoso.com contains a user named User1 and syncs to Azure Active Directory (Azure AD).
+You create an Azure Storage account named storage1 and file share named share1.
+You need to assign User 1 the Storage File Data SMB share Reader role on Share1.
+What should you do first?
+() Join Storage1 to contoso.com
+() Add a read-only lock to storage1.
+() Enable advanced security for storage1.
+() Generate a shared access signature (SAS)
+
+22. You create an Azure Storage account named storage1 that contains the following data.
+- Two blob containers
+- One file share
+- One table
+How many account keys does storage1 have?
+() 1
+() 2
+() 3
+() 4
+
+23. You plan to implement an Azure Key vault.
+You can use a certificate to store a database connections string in a key vault.
+Select Yes if the Statement is true.Otherwise, Select No.
+() Yes
+() No
+
+24. You had an Azure subscription that contains a web app named App1 and an Azure Key Vault named Vault1.
+You need to ensure that you can grant App1 access to Vault1.
+What should you do first?
+() Turn on app service automation
+() Assign a managed identity to App1
+() Upload a certificate to Vault1
+() Add a role assignment
+() Add a TLS/SSL binding to App1
+
+25. Your company plans to use Azure Managed identities.
+A web app can be assigned a system-assigned and a user-assigned managed identity.
+Select Yes if the Statement is true.Otherwise, Select No.
+() Yes
+() No
+
 
 
