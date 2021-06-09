@@ -29,7 +29,7 @@ You Configure and enforce a multi-factor authentication (MFA) registration polic
 User1 authentication on October 1.
 What is the last day that User1 can sign in without using MFA?
 () October 7
-() October 14
+(X) October 14
 () October 21
 () October 28
 () October 30
@@ -66,7 +66,7 @@ You create two network security groups (NSGs) named NSG1 and NSG2 to which you a
 - NSG2: Ports 443 and 3389
 You assign NSG1 to Subnet1 and NSG2 to NIC1.
 Through which ports can you connect to VM1?
-() 3389 only
+(X) 3389 only
 () 80 and 3389 only
 () 443 and 3389 only
 () 80,443 and 3389
@@ -94,7 +94,7 @@ Select Yes if the Statement is true.Otherwise, Select No.
 You can delete the NSG default security rules.
 Select Yes if the Statement is true.Otherwise, Select No.
 () Yes
-() No
+(X) No
 
 15. Your company has recently implemented Azure Sentinel.
 You need to provide an automated response to threats in Azure Sentinel.
