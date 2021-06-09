@@ -10,18 +10,18 @@ Which service is required to use a sign-in risk condition in a conditional acces
 Exchange ActiveSync is legacy authentication protocol.
 Select Yes if the Statement is true.Otherwise, Select No.
 () Yes
-() No
+(X) No
 
 3.Your company plans to use Access Reviews.
 Access Reviews can unassign Azure Active Directory (Azure AD) roles automatically.
 Select Yes if the Statement is true.Otherwise, Select No.
-() Yes
+(X) Yes
 () No
 
 4. Your company plans to use Access Reviews.
 Access Reviews are used to provide users access to Azure Active Directory (Azure AD) enterprise applications.
 Select Yes if the Statement is true.Otherwise, Select No.
-() Yes
+(X) Yes
 () No
 
 5. You have an Azure Active Directory (Azure AD) tenant that contains a user named User1.
@@ -45,20 +45,20 @@ What should you configure?
 7. Your company is evaluating role-based access control (RBAC) in AZure.
 If a user has the Reader role at the Azure Subscription level, you can remove the user from the Reader role at the resource group level.
 Select Yes if the Statement is true.Otherwise, Select No.
-() Yes
+(X) Yes
 () No
 
 8. Your company is evaluating role-based access control (RBAC) in Azure.
 A user who is assigned the Owner role on a resource has the highest level of permissions.
 Select Yes if the Statement is true.Otherwise, Select No.
-() Yes
+(X) Yes
 () No
 
 9. Your company is evaluating role-based access control (RBAC) in Azure.
 All roles are identical on all Azure resources.
 Select Yes if the Statement is true.Otherwise, Select No.
 () Yes
-() No
+(X) No
 
 10. You have an Azure Virtual Machine that has a network interface name NIC1 connects to a subnet named Subnet1.
 You create two network security groups (NSGs) named NSG1 and NSG2 to which you add the following inbound allow security rules:
@@ -80,21 +80,21 @@ Through which ports can you connect to VM1?
 12. Your company is evaluating network security groups (NSGs)
 You can create custom service tags that can be used in NSGs.
 Select Yes if the Statement is true.Otherwise, Select No.
-() Yes
+(X) Yes
 () No
 
 13. Your company is evaluating network security groups (NSGs)
 You can use an Azure Load Balance AzureLoadBalancer service tag in an NSGs.
 Select Yes if the Statement is true.Otherwise, Select No.
-() Yes
+(X) Yes
 () No
 
 
 14. Your company is plans to modify a network security groups (NSGs)
 You can delete the NSG default security rules.
 Select Yes if the Statement is true.Otherwise, Select No.
-() Yes
-(X) No
+(X) Yes
+() No
 
 15. Your company has recently implemented Azure Sentinel.
 You need to provide an automated response to threats in Azure Sentinel.
@@ -122,7 +122,7 @@ What should you specify in the Workflow automation?
 18. Your company is Evaluating whether to use secure score in Azure Security Center.
 Enabling multi factor authentication (MFA) will increase your secure score.
 Select Yes if the Statement is true.Otherwise, Select No.
-() Yes
+(X) Yes
 () No
 
 19. Your company is monitoring Azure Virtual Machine by using the Azure Security center.
@@ -179,7 +179,7 @@ What should you do first?
 A web app can be assigned a system-assigned and a user-assigned managed identity.
 Select Yes if the Statement is true.Otherwise, Select No.
 () Yes
-() No
+(X) No
 
 
 
