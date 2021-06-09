@@ -99,7 +99,7 @@ Select Yes if the Statement is true.Otherwise, Select No.
 15. Your company has recently implemented Azure Sentinel.
 You need to provide an automated response to threats in Azure Sentinel.
 What should you create?
-() a playbook
+(X) a playbook
 () an Azure function
 () a Microsoft Power App
 () an automation account
@@ -114,7 +114,7 @@ What should you create?
 You are creating a workflow automation.
 You need to configure the workflow automation to respond automatically to Azure Security Center alerts.
 What should you specify in the Workflow automation?
-() a logic app
+(X) a logic app
 () an Azure Function
 () a PowerShell script
 () an automation account
