@@ -39,7 +39,7 @@ You need to require multi-factor authntication (MFA) if a user attempts to acces
 What should you configure?
 () an Azure Security policy
 () a user risk policy
-() a sign-in risk policy
+(X) a sign-in risk policy
 () an MFA registration policy
 
 7. Your company is evaluating role-based access control (RBAC) in AZure.
