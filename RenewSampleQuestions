@@ -130,7 +130,7 @@ what should you use to configure which applications can run on virtual machines?
 () Azure security policies
 () application control policies
 () software restirction policies
-() adaptive application control
+(X) adaptive application control
 
 20.You have an Azure Storage account named account1.
 You need to grant users access to account1 from October 1 to October 14 only.
