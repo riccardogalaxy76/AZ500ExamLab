@@ -291,7 +291,7 @@ For which resource can you assign the Storage File Data SMB Share Reader role?
 38. What can an Azure Key vault use to authenticate requests for stored secrets?
 () certificates
 () Azure Active Directory (Azure AD)
-() uernames/paswords
+() usernames/passwords
 
 39. You plan to implement an Azure Key Vault.
 You can use a scret to store a database connectionstring in an Azure Key Vault.
