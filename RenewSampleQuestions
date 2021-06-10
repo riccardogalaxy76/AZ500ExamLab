@@ -259,6 +259,49 @@ Select Yes if the statement is true. Otherwise,Select No.
 () Azure Synapse Analytics
 (X) a Log Analytics workspace
 
+35. Your comapny plams to implement Auzre Sentinel.
+You need to collect data from the following data sources:
+- Microsoft Office 365
+- Azure Security Center
+- On-premise Windows Firewall
+- Amazon Web Services
+What is the minimum number of Azure Sentinel workspaces that you should create?
+() 1
+() 2
+() 3
+() 4
 
+36. You have an Azure Storage account named account1.
+You need to authenticate access to account1 by using Azure Active Directory (Azure AD) identities.
+What should you configure?
+() certificates
+() role-based access control (RBAC) roles
+() access keys
+() shared access signature (SAS)
 
+37. You have an Azure Storage account named storage1 that contains a file share named share1.
+You enable identity-based authentication for storage1 and perform the following actions:
+- Create a directory named Directory1 in share1.
+- Add a file named File1 to Directory1.
+For which resource can you assign the Storage File Data SMB Share Reader role?
+() share1
+() storage1
+() Directory1
+
+38. What can an Azure Key vault use to authenticate requests for stored secrets?
+() certificates
+() Azure Active Directory (Azure AD)
+() uernames/paswords
+
+39. You plan to implement an Azure Key Vault.
+You can use a scret to store a database connectionstring in an Azure Key Vault.
+Select Yes if the statement is true. Otherwise, select No.
+() Yes
+() No
+
+40. Your company plans to use Azure Managed identities.
+The same managed identity can be assigned to multiple Azure resources.
+Select Yes if the statement is true.Otherwise, select No.
+() Yes
+() No
 
