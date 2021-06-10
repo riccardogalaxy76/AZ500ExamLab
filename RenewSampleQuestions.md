@@ -181,5 +181,84 @@ Select Yes if the Statement is true.Otherwise, Select No.
 () Yes
 (X) No
 
+26. You have an Azure Active Directory (Azure AD) tenant.
+You need to enforce multi-factor authentication (MFA) for users in a group named Marketing.
+() a user risk policy
+() an Azure security policy
+() an Azure AD conditional access policy
+() Azure AD Privileaged Identity Management (PIM)
+
+27. You have an Azure Active Directory (Azure AD) tenant that contains a user named Admin1.
+You need to provide Admin1 with Just in time (JIT) access to the User administrator role.
+What should you use?
+() an Azure AD conditional access policy
+() an Azure AD Authentication Method policy
+() Azure AD Identity Protection
+() Azure AD Privileaged Identity Management (PIM)
+
+28. Your company has an Azure Active Directory (Azure AD) tenant that contains foloowing users:
+- User1 uses multi-factor authentication (MFA)
+- User2 is registered for MFA but never used MFA
+- User3 is enabled for MFA but is not registered MFA
+- User4 is disabled for MFA
+When the users sign in,Azure AD Identity Protection detection risk requires MFA.
+Which users can sign in?
+() User1 only
+() User1 and User2 only
+() User1,User2,and User3 only
+() User1,User2,User3 ,and User4
+
+29. You have an Azure subscription named Subscription1 that contains a resource group named RG1.
+Subscription1 is linked to an Azure Active Directory (Azure AD) tenant that contains the following:
+- Group1: A Microsoft 365 group
+- App1: An enterprise application
+You create a virtual machine named VM1 in Subscription1.
+To what can you assign the Reader role for RG1?
+() App1 only
+() Group1 only
+() App1 and VM1 only
+() Group1 and App1 only
+() Group1,App1,and VM1
+
+30. You have an Azure resource group named RG1 that contains two virtual machines name VM1 and VM2.
+A user named User1 is assigned the Virtual Machine Contributor role on RG1.
+You need to deny User1 the Virtual Machine Contributor role on VM1.
+What should you use?
+() a lock
+() an Azure policy
+() an Azure Blueprint
+() a virtual machine extension
+
+31. You plan a to create and configure the following virtual machines:
+- VM1 connects to VNET1/Subnet1 and allows traffic from TCP port 25.
+- VM2 connects to VNET1/Subnet1 and allows traffic from TCP port 80.
+- VM3 connects to VNET1/Subnet2 and allows traffic from TCP port 3389.
+- VM4 connects to VNET1/Subnet0 and allows traffic from TCP port 8080.
+You need to create the network security group (NSGs) to allow the only the specified connections.
+What is the minimum number of NSGs that you should create?
+() 1
+() 2
+() 3
+() 4
+
+32. Your comapny plans to modify a network security group (NSG).
+You can specify multiple IP addesses in a single NSG security rule.
+Select Yes if the statement is true. Otherwise,select No.
+() Yes
+() No
+
+33. Your company is evaluating whether to user secure score in Azure Security Center.
+A secure score can be manually updated by administrators.
+Select Yes if the statement is true. Otherwise,Select No.
+() Yes
+() No
+
+34. When does Azure Sentinel store collected data?
+() Azure SQL database
+() an Azure Storage account
+() Azure Synapse Analytics
+(X) a Log Analytics workspace
+
+
 
 
